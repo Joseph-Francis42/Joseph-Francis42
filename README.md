@@ -22,7 +22,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:josephfrancis@gmail.com"><img src="https://img.shields.io/badge/📧_josephfrancis@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:jobinfrancis0101@gmail.com"><img src="https://img.shields.io/badge/📧_jobinfrancis0101@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/💻_Full_Stack_Dev-1e1e2e?style=for-the-badge" />
   </p>
@@ -33,11 +33,11 @@
     <a href="https://github.com/Joseph-Francis42">
       <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/joseph-francis/">
+    <a href="https://www.linkedin.com/in/joseph-francis312">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <a href="mailto:jobinfrancis0101@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 
@@ -109,7 +109,7 @@
 - 🌱 **I’m currently learning**: Modern Web Frameworks & System Architecture
 - 👯 **I’m looking to collaborate on**: Open Source Software & Web Applications
 - 💬 **Ask me about**: Full-stack dev, UI design, databases & APIs
-- 📫 **How to reach me**: [josephfrancis@gmail.com](mailto:josephfrancis@gmail.com)
+- 📫 **How to reach me**: [jobinfrancis0101@gmail.com](mailto:jobinfrancis0101@gmail.com)
 - ⚡ **Fun fact**: Fueled by coffee, curiosity, and creative code 🚀
 
 <br/>
