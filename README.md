@@ -18,9 +18,9 @@
 
 <br/>
 
-<!-- RETRO DEV BANNER IMAGE -->
+<!-- ANIMATED PIXEL ART DEV WORKSPACE GIF -->
 <p align="center">
-  <img src="banner.png" alt="Developer Workspace Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,240,255,0.2);" />
+  <img src="banner.gif" alt="Animated Developer Workspace Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,240,255,0.2);" />
 </p>
 
 ---
