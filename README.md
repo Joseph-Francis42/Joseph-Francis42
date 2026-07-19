@@ -1,112 +1,123 @@
-## Hi Halloos 👋
+<div align="center">
 
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<!-- ANIMATED HEADER WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Welcome%20to%20Joseph%20Francis'%20World%20✨&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+
+</div>
 
 <h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/HandWave.gif" width="34" />
   Hi, I'm <strong>Joseph Francis</strong>
 </h1>
 
-<h3>Full Stack Developer | HTML • PYTHON • SQL • JAVASCRIPT</h3>
+<h3>⚡ Full Stack Developer | Turning Ideas into Interactive Digital Experiences</h3>
 
 <div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img align="right" width="380" src="header_banner.gif" style="border-radius: 12px; box-shadow: 0 8px 25px rgba(0,240,255,0.25);" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I'm a passionate full-stack software developer who loves building fast, intuitive, and visually engaging web applications.
+    From responsive frontends to robust scalable backends, I bring digital products to life.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:josephfrancis@gmail.com"><img src="https://img.shields.io/badge/📧_josephfrancis@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Developer_(Secret)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💻_Full_Stack_Dev-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Socials</h3>
+  <h3>🌐 Connect with Me</h3>
   
-<p align="left">
-  <a href="https://github.com/Joseph-Francis42">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/joseph-francis/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+  <p align="left">
+    <a href="https://github.com/Joseph-Francis42">
+      <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/joseph-francis/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://discord.com">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+  </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Joseph-Francis42&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=Joseph-Francis42&style=flat-square&color=00F0FF" alt="Profile Views"/>
 </div>
 
 <br clear="all" />
 
-## 🛠️ Skills
+---
+
+## 🛠️ Skills & Technologies
+
 <p align="center">
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,c,js,ts" />
-<br/><br/>
+  <h3>💻 Languages</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,c" />
+  <br/><br/>
 </td>
 
 <td width="50%" align="center">
-<h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,bootstrap,tailwind" />
-<br/><br/>
+  <h3>🎨 Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tailwind,bootstrap" />
+  <br/><br/>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
+  <br/><br/>
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,docker" />
-<br/><br/>
+  <h3>🧰 Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,docker" />
+  <br/><br/>
 </td>
 </tr>
 </table>
 </p>
 
-## 📊 GitHub Stats
+---
+
+## 📊 Animated GitHub Analytics
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Joseph-Francis42&theme=dark&hide_border=true" alt="Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph-Francis42&theme=radical&hide_border=true" alt="Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Joseph-Francis42&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joseph-Francis42&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-Francis42&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Joseph-Francis42/Joseph-Francis42/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
 
 ## 🚀 About & Focus
 
-- 🔭 **I’m currently pursuing**: B.Tech in Computer Science
-- 🌱 **I’m currently learning**: Full-Stack Web Development & Data Structures
-- 👯 **I’m looking to collaborate on**: Web Apps, Open Source Projects, and Mini Projects
-- 🤔 **I’m looking for help with**: Advanced Backend Development and System Design
-- 💬 **Ask me about**: HTML, CSS, JavaScript, React, Python, and SQL
+- 🔭 **I’m currently pursuing**: B.Tech in Computer Science & Engineering
+- 🌱 **I’m currently learning**: Modern Web Frameworks & System Architecture
+- 👯 **I’m looking to collaborate on**: Open Source Software & Web Applications
+- 💬 **Ask me about**: Full-stack dev, UI design, databases & APIs
 - 📫 **How to reach me**: [josephfrancis@gmail.com](mailto:josephfrancis@gmail.com)
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I love turning ideas into real working projects 🚀
+- ⚡ **Fun fact**: Fueled by coffee, curiosity, and creative code 🚀
 
----
+<br/>
 
-## ❤️ Support Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=50,30,10,2,0&height=100&section=footer" width="100%" />
+</div>
 
-<p align="center">
-  <a href="https://buymeacoffee.com">
-    <img src="https://cdn.buymeacoffee.com/buttons//default-yellow.png" width="200"/>
-  </a>
-</p>
+<div align="center">
+  <sub>Designed with ❤️ for <b>Joseph Francis</b></sub>
+</div>
