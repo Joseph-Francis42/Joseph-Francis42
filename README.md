@@ -1,14 +1,9 @@
 <div align="center">
 
-<!-- ANIMATED HEADER WAVE & TYPING TEXT -->
-<img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/HandWave.gif" width="48px" alt="Waving Hand" />
+<!-- ANIMATED CAPSULE HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Hi%20there!%20I'm%20Joseph%20Francis%20👋&fontSize=36&fontColor=ffffff&animation=twinkling" width="100%" alt="Joseph Francis Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+I'm+Joseph+Francis+👋;Full+Stack+Developer+%26+Tech+Explorer;Building+Modern%2C+Animated+%26+Scalable+Web+Apps;Welcome+to+my+GitHub+World!+✨" alt="Animated Typing Header" />
-
-<!-- CAPSULE ANIMATED HEADER WAVE / BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=180&section=header&text=Welcome%20To%20My%20Profile!&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Capsule Banner" />
-
-<!-- QUICK STATUS & ANIMATED BADGES -->
+<!-- QUICK STATUS & BADGES -->
 <p align="center">
   <a href="https://github.com/Joseph-Francis42">
     <img src="https://img.shields.io/badge/Developer-Full%20Stack-00F0FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Developer Badge" />
@@ -23,7 +18,7 @@
 
 <br/>
 
-<!-- ANIMATED RETRO DEV BANNER IMAGE -->
+<!-- RETRO DEV BANNER IMAGE -->
 <p align="center">
   <img src="banner.png" alt="Developer Workspace Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,240,255,0.2);" />
 </p>
